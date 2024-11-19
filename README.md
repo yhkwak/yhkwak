@@ -48,7 +48,7 @@
 
 ---
 
-## 🤝 함께하세요!
+## 🤝 연락처
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yhkwak4896/)
 - 📫 [이메일](yhkwak4896@gmail.com)
