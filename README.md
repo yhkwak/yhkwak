@@ -50,7 +50,7 @@
 
 ## 🤝 함께하세요!
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/yhkwak4896/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yhkwak4896/)
 - 📫 [이메일](yhkwak4896@gmail.com)
 
 제 GitHub를 방문해 주셔서 감사합니다! 궁금한 점이 있거나 협업을 원하시면 언제든지 연락주세요.
