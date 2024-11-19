@@ -38,11 +38,11 @@
 
 ## 🛠️ 주요 프로젝트
 
-### 🔗 [빵빵한 천안]([https://github.com/yhkwak/bread_cheonan](https://github.com/yhkwak/bread_cheonan))
+### 🔗 [빵빵한 천안](https://github.com/yhkwak/bread_cheonan)
 - **설명**: 천안시의 빵집들을 한눈에 모아보고 주문을 할 수 있는 홈페이지 제작.
 - **기술**: Java, Spring, MySQL ...
 
-### 🔗 [의약품 추천 AI 챗봇]([https://github.com/yhkwak/medical_chatbot](https://github.com/yhkwak/medical_chatbot))
+### 🔗 [의약품 추천 AI 챗봇](https://github.com/yhkwak/medical_chatbot)
 - **설명**: 사용자가 아픈 증상을 입력하면 약국에서 구할 수 있는 일반 의약품을 추천해주는 챗봇.
 - **기술**: Python, ChatGpt, Llama3 ...
 
@@ -50,7 +50,7 @@
 
 ## 🤝 함께하세요!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yhkwak4896/](https://www.linkedin.com/in/yhkwak4896/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/yhkwak4896/)
 - 📫 [이메일](yhkwak4896@gmail.com)
 
 제 GitHub를 방문해 주셔서 감사합니다! 궁금한 점이 있거나 협업을 원하시면 언제든지 연락주세요.
